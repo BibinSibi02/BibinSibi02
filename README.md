@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1>Hello, I'm Bibin!</h1>
+I am a junior software developer interested in topics including but not limited to: Artificial Intelligence, Software Systems, and Game Development. <br/>
+Below I have linked some examples of projects that I have worked on!
+<h2>Software Development Projects</h2>
 
-<!--
-**BibinSibi02/BibinSibi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Python Projects</b>
+  - AI:
+  - Algorithms: [Basic Algorithms all the way to Minimum Spanning Tree implementations](https://github.com/BibinSibi02/Algorithms-.git)
+- <b>C++ Projects</b>
+- <b>C# Projects</b>
+- <b>Assembly(MIPS)</b>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
