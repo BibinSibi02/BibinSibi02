@@ -4,7 +4,7 @@ Below I have linked some examples of projects that I have worked on!
 <h2>Software Development Projects</h2>
 
 - <b>Python Projects</b>
-  - AI:
+  - AI: [Sample AI Projects using Numpy and PANDAS](https://github.com/BibinSibi02/IntroAi.git)
   - Algorithms: [Basic Algorithms all the way to Minimum Spanning Tree implementations](https://github.com/BibinSibi02/Algorithms-.git)
 - <b>C++ Projects</b>
 - <b>C# Projects</b>
