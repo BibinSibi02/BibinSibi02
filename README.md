@@ -7,6 +7,7 @@ Below I have linked some examples of projects that I have worked on!
   - AI: [Sample AI Projects using Numpy and PANDAS](https://github.com/BibinSibi02/IntroAi.git)
   - Algorithms: [Basic Algorithms all the way to Minimum Spanning Tree implementations](https://github.com/BibinSibi02/Algorithms-.git)
 - <b>C++ Projects</b>
+  - OS: [Operating Systems and Software Concepts in C++](https://github.com/BibinSibi02/C-Concepts.git)
 - <b>C# Projects</b>
 - <b>Assembly(MIPS)</b>
 
